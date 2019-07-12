@@ -1,0 +1,417 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38f4",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-695761.63,
+7049867.26
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 1740224383,
+"location_astext": "POINT(-695761.63 7049867.26)",
+"name": "GAA Museum",
+"operator": null,
+"website": "http://www.crokepark.ie/GAA-Museum",
+"bbox": [
+-695761.63,
+7049867.26,
+-695761.63,
+7049867.26
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38f3",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-696684.85,
+7046045.28
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 2357100885,
+"location_astext": "POINT(-696684.85 7046045.28)",
+"name": "The Little Museum of Dublin",
+"operator": null,
+"website": "http://www.littlemuseum.ie/",
+"bbox": [
+-696684.85,
+7046045.28,
+-696684.85,
+7046045.28
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38f2",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-699164.14,
+7043607.07
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3005930483,
+"location_astext": "POINT(-699164.14 7043607.07)",
+"name": "Mary Aikenhead Heritage Centre",
+"operator": "Religious Sisters of Charity",
+"website": "http://www.rscmaheritage.com/",
+"bbox": [
+-699164.14,
+7043607.07,
+-699164.14,
+7043607.07
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38f1",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-726885.9,
+7047861.46
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3078856489,
+"location_astext": "POINT(-726885.9 7047861.46)",
+"name": "Berkeley Costume and Toy Collection",
+"operator": null,
+"website": null,
+"bbox": [
+-726885.9,
+7047861.46,
+-726885.9,
+7047861.46
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38f0",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-695944.27,
+7046728.21
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3192293580,
+"location_astext": "POINT(-695944.27 7046728.21)",
+"name": "Zoological Museum",
+"operator": "Trinity College, Dublin",
+"website": "https://www.tcd.ie/Zoology/museum/",
+"bbox": [
+-695944.27,
+7046728.21,
+-695944.27,
+7046728.21
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38ef",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-697562.81,
+7046707.16
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3560461556,
+"location_astext": "POINT(-697562.81 7046707.16)",
+"name": "Revenue Museum",
+"operator": "OPW",
+"website": null,
+"bbox": [
+-697562.81,
+7046707.16,
+-697562.81,
+7046707.16
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38ee",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-697602.27,
+7046697.45
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3560461559,
+"location_astext": "POINT(-697602.27 7046697.45)",
+"name": "Garda Museum",
+"operator": null,
+"website": null,
+"bbox": [
+-697602.27,
+7046697.45,
+-697602.27,
+7046697.45
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38ed",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-698197.61,
+7046741.68
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3585952597,
+"location_astext": "POINT(-698197.61 7046741.68)",
+"name": "Dublinia",
+"operator": null,
+"website": "http://www.dublinia.ie/",
+"bbox": [
+-698197.61,
+7046741.68,
+-698197.61,
+7046741.68
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38ec",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-692057.15,
+7034477.33
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3655226582,
+"location_astext": "POINT(-692057.15 7034477.33)",
+"name": "Imaginosity",
+"operator": null,
+"website": "http://www.imaginosity.ie/",
+"bbox": [
+-692057.15,
+7034477.33,
+-692057.15,
+7034477.33
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38eb",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-702340.28,
+7046495.85
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 3950323926,
+"location_astext": "POINT(-702340.28 7046495.85)",
+"name": "Kilmainham Jail Museum",
+"operator": null,
+"website": null,
+"bbox": [
+-702340.28,
+7046495.85,
+-702340.28,
+7046495.85
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38ea",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-699925.68,
+7047701.38
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 140706284,
+"location_astext": "POINT(-699925.68 7047701.38)",
+"name": "National Museum of Ireland, Collins' Barracks",
+"operator": null,
+"website": null,
+"bbox": [
+-699925.68,
+7047701.38,
+-699925.68,
+7047701.38
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38e9",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-695814.03,
+7046917.36
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 330262533,
+"location_astext": "POINT(-695814.03 7046917.36)",
+"name": "Science Gallery",
+"operator": "Trinity College, Dublin",
+"website": "http://dublin.sciencegallery.com/",
+"bbox": [
+-695814.03,
+7046917.36,
+-695814.03,
+7046917.36
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38e8",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-698760.85,
+7047651.46
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 470326898,
+"location_astext": "POINT(-698760.85 7047651.46)",
+"name": "Old Jameson Distillery",
+"operator": null,
+"website": "http://www.tours.jamesonwhiskey.com/Home/The-Old-Jameson-Distillery-Dublin.aspx",
+"bbox": [
+-698760.85,
+7047651.46,
+-698760.85,
+7047651.46
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38e7",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-697261.58,
+7047187.92
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 626129705,
+"location_astext": "POINT(-697261.58 7047187.92)",
+"name": "Temple Bar Gallery",
+"operator": null,
+"website": "www.templebargallery.com/",
+"bbox": [
+-697261.58,
+7047187.92,
+-697261.58,
+7047187.92
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38e6",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-697921.83,
+7044405.58
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 755734351,
+"location_astext": "POINT(-697921.83 7044405.58)",
+"name": "Jewish Museum",
+"operator": null,
+"website": "http://www.jewishireland.org/museum.html",
+"bbox": [
+-697921.83,
+7044405.58,
+-697921.83,
+7044405.58
+]
+}
+},
+{
+"type": "Feature",
+"id": "dublin_museums.fid--351590fd_16abdf7cc04_-38e5",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-695494.03,
+7045745.04
+]
+},
+"geometry_name": "location",
+"properties": {
+"osm_id": 915546257,
+"location_astext": "POINT(-695494.03 7045745.04)",
+"name": "Georgian House Museum",
+"operator": null,
+"website": "http://www.esb.ie/main/about-esb/numbertwentynine/default.htm",
+"bbox": [
+-695494.03,
+7045745.04,
+-695494.03,
+7045745.04
+]
+}
+}
+],
+"crs": {
+"type": "EPSG",
+"properties": {
+"code": "900913"
+}
+},
+"bbox": [
+-726885.9,
+7034477.33,
+-692057.15,
+7049867.26
+]
+}
