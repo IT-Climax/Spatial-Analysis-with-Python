@@ -25,8 +25,8 @@ layout = [[sg.Text('Supplemental Assigment', size=(30, 1), font=("Helvetica", 25
 data_source = 'http://mf2.dit.ie:8080/geoserver/topp/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=topp:states&maxFeatures=50&outputFormat=json'
 
 ##Reading the dataset from server
-# states =geopandas.read_file(data_source)
-states = geopandas.read_file('/home/anck/Desktop/Dev/python/supAss/data/usstatepopulation.geojson')
+states =geopandas.read_file(data_source)
+
 states.plot(figsize = (10,10), alpha=.7, edgecolor='k')
 # plt.show()
 plt.savefig('Figure 1 US Population.png')
